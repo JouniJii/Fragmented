@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragmented</string>
+    <string name="button_get">Get data</string>
+    <string name="button_show">Show data</string>
+</resources>
